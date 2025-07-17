@@ -12,6 +12,6 @@ pip install lightning -i https://mirrors.aliyun.com/pypi.simple
 
 
 ## Acknowledgements
-- This work draws heavily on the paper "(PredFormer: Video Prediction Transformers without Recurrence or Convolution)[https://github.com/yyyujintang/PredFormer]". We would like to express our gratitude.
+- This work draws heavily on the paper "[PredFormer: Video Prediction Transformers without Recurrence or Convolution](https://github.com/yyyujintang/PredFormer)". We would like to express our gratitude.
 
 
